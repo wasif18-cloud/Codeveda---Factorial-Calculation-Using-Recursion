@@ -5,7 +5,6 @@ A simple Java console application that calculates the factorial of a number usin
 ## 📌 Project Overview
 
 This project demonstrates the use of **recursion in Java** to calculate the factorial of a given number.
-
 The program takes a number from the user and calculates its factorial by repeatedly calling the same function until the base condition is reached.
 
 ## 🎯 Objective
